@@ -14,4 +14,7 @@ final public class Mathematics {
 		return a-b;
 	}
 
+	final public static Double mul(double a, double b) {
+		return a*b;
+	}
 }
